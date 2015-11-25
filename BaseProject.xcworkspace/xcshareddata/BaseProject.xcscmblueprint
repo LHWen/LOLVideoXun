@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "C3A09B78ABF289887F11F65A7A7FFE4230148E35" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C3A09B78ABF289887F11F65A7A7FFE4230148E35" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "50F9C134-F0E7-4B6B-B828-A5D208645C62",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C3A09B78ABF289887F11F65A7A7FFE4230148E35" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BaseProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BaseProject.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/videoxun",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C3A09B78ABF289887F11F65A7A7FFE4230148E35"
+    }
+  ]
+}
